@@ -1,0 +1,246 @@
+@import "reset.css";
+@import "fonts.css";
+
+i,
+.red_type_1,
+.red_type_2,
+.red_type_3,
+.red_type_4,
+.hate,
+.hashtag {
+  color: red;
+}
+
+.red_type_1 {
+  font-size: 155px;
+}
+.red_type_2 {
+  font-size: 135px;
+}
+.red_type_3 {
+  font-size: 115px;
+}
+.red_type_4 {
+  font-size: 185px;
+}
+
+body {
+  background-color: black;
+  background-size: cover;
+  color: white;
+  font-family: 'Futura PT';
+  margin:85px auto;
+  padding-left: 70px;
+  width: 850px;
+}
+
+section {
+  position: relative;
+  display: block;
+  margin-top: 192px;
+}
+
+section.Subjects {
+  padding-top: 75px;
+}
+
+section.raspis {
+  padding-top: 100px;
+}
+
+header {
+  position: relative;
+  display: block;
+  margin-top: 192px;
+}
+
+header {
+  margin-top: 0;
+}
+
+
+div {
+  display: block;
+  position: relative;
+}
+
+div.hate {
+  font-size: 250px;
+  margin-left: -18vh;
+}
+
+div.reasons {
+  font-size: 65px;
+  margin-top: 35px;
+}
+
+div.hashtag {
+  font-size: 37px;
+  margin-top: 68px;
+}
+
+h1 {
+  font-size: 65px;
+  margin-bottom: 50px;
+}
+
+h2 {
+  font-size: 25px;
+  position: absolute;
+  bottom: 8px;
+  left: -65px
+}
+
+pre {
+  font-size: 40px;
+}
+
+img {
+  position: absolute;
+  right: 110px;
+  top: 350px;
+}
+
+div.reasons,
+p {
+  white-space: pre;
+}
+
+section>div {
+  position: relative;
+}
+
+div.site {
+  margin-top: 95px;
+  margin-left: 220px;
+}
+
+pre {
+  display: block;
+  margin-bottom: 46px;
+}
+
+div.rel_5 {
+  padding-left:140px;
+}
+div.rel_7 {
+  padding-left:200px;
+}
+div.rel_8 {
+  padding-left:45px;
+}
+div.rel_9 {
+  padding-left:165px;
+}
+div.rel_10 {
+  padding-left:225px;
+}
+div.rel_11 {
+  padding-left:155px;
+}
+
+.red_type_1,
+.red_type_2,
+.red_type_3,
+.red_type_4 {
+  position: absolute;
+  display: block;
+}
+
+
+/* id position */
+
+#terible {
+  right: 280px;
+  top: 192px;
+}
+#where_1 {
+  left:-265px;
+  bottom:20px;
+  transform: rotate(-90deg);
+}
+#where_2 {
+  left:-227px;
+  bottom:15px;
+  transform: rotate();
+
+}
+#where_3 {
+  left:-265px;
+  bottom:25px;
+  transform: rotate(+90deg);
+}
+#creative {
+  left:-75px;
+  bottom:-155px;
+}
+#what {
+  right:-95px;
+  top:65px;
+  transform: rotate(+90deg);
+}
+#contr {
+  left:-200px;
+  bottom:-117px;
+  line-height:87px;
+}
+#ne_cenit {
+  line-height: 105px;
+  position: static;
+  margin-top: -60px;
+  margin-left: -5px;
+  margin-bottom: 45px;
+}
+#suffer {
+  left:-140px;
+  top:120px;
+  transform: rotate(+90deg);
+}
+#spat {
+  line-height: 105px;
+  position: static;
+  margin-top: -215px;
+  margin-left: -295px;
+  margin-bottom: 35px;
+}
+#descrim {
+  position: static;
+  margin-top: -70px;
+  margin-left: 0;
+  margin-bottom: 15px;
+}
+#anarcy {
+  position: static;
+  margin-top: -70px;
+  margin-left: 270px;
+  margin-bottom:0;
+}
+#chto {
+  left:-5px;
+  top:-55px;
+}
+#next {
+  left:-175px;
+  top:-20px;
+  transform: rotate(+90deg);
+}
+#absurd {
+  right:95px;
+  bottom:-165px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  */
